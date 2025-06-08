@@ -1,0 +1,4 @@
+audio/
+venv/
+*.apkg
+__pycache__
